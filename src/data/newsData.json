@@ -1,0 +1,355 @@
+{
+  "_type": "News",
+  "readLink": "https://api.cognitive.microsoft.com/api/v5/news/search?q=china",
+  "totalEstimatedMatches": 2460000,
+  "value": [
+    {
+      "name": "<b>China</b> stocks climb to 10-month high as Trump fears turn to hope",
+      "url": "http://www.bing.com/cr?IG=B4122DB838F44D0EA9C7C2BA2EDAA755&CID=3D6E0E02209C6A70230807CB21AD6BAA&rd=1&h=1InyTqZMKo7G8C84Irn7QNHvWE5LNP0zbXnBPeoQgMs&v=1&r=http%3a%2f%2fwww.reuters.com%2farticle%2fus-china-stocks-close-idUSKBN1350LB&p=DevEx,5023.1",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.511E60265C5BAEF2633974C59B945FB7&pid=News",
+          "width": 700,
+          "height": 466
+        }
+      },
+      "description": "SHANGHAI <b>China</b> stocks rose to a fresh 10-month high on Thursday, joining a surprise turnaround in global markets in the wake of a shock win for Republican Donald Trump in the U.S. presidential election. The benchmark Shanghai Composite Index .SSEC gained 1 ...",
+      "about": [
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/1a466af2-ed23-25bd-794d-1ca925e4681b",
+          "name": "Donald Trump"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/5fcc3d97-0cf2-94e5-6dad-cd70e387bd69",
+          "name": "China"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/9f417f89-9a37-e0d0-912e-99dccfb8982d",
+          "name": "Reuters"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Reuters"
+        }
+      ],
+      "datePublished": "2016-11-10T02:11:00",
+      "category": "Business"
+    },
+    {
+      "name": "Trump&#39;s challenge: Can he stop conflict in the South <b>China</b> Sea?",
+      "url": "http://www.bing.com/cr?IG=B4122DB838F44D0EA9C7C2BA2EDAA755&CID=3D6E0E02209C6A70230807CB21AD6BAA&rd=1&h=ydYa45zzHViU2sti000VRfbZhv7ZZoZfAuI6ryDZLys&v=1&r=http%3a%2f%2fwww.cnn.com%2f2016%2f11%2f09%2fpolitics%2fdonald-trump-china-global-headaches%2findex.html&p=DevEx,5025.1",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.30F8B2C315C28662C7F8B089161CE09C&pid=News",
+          "width": 700,
+          "height": 393
+        }
+      },
+      "description": "(CNN)United States President-elect Donald Trump will have a lot of global challenges to deal with, and <b>China</b> is one of them. Here&#39;s what you need to know. Trump&#39;s take on <b>China</b> &quot;We can&#39;t continue to allow <b>China</b> to rape our country, and that&#39;s what they&#39;re ...",
+      "about": [
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/1a466af2-ed23-25bd-794d-1ca925e4681b",
+          "name": "Donald Trump"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/23f43f24-a2da-029d-b5fe-803cc885d5be",
+          "name": "Conflict"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/be9ea4ac-466b-bd65-0d2f-ee833681dd72",
+          "name": "South China Sea"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "CNN"
+        }
+      ],
+      "datePublished": "2016-11-09T16:02:00",
+      "category": "World"
+    },
+    {
+      "name": "US election 2016: <b>China</b> eyes chance to weaken US power",
+      "url": "http://www.bing.com/cr?IG=B4122DB838F44D0EA9C7C2BA2EDAA755&CID=3D6E0E02209C6A70230807CB21AD6BAA&rd=1&h=Z4Z5feIrvMHC2TwZ2YPx2FkUlnOvUm5twWK4Wdlhpso&v=1&r=http%3a%2f%2fwww.bbc.co.uk%2fnews%2fworld-asia-china-37924880&p=DevEx,5027.1",
+      "description": "He may have won at home, but on the level where great nations contend, President-elect Trump&#39;s campaign slogan &quot;Make America Great Again&quot; now goes head to head with <b>China</b>&#39;s favourite catchphrases, the great rejuvenation of the Chinese nation and the <b>China</b> ...",
+      "about": [
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/5fcc3d97-0cf2-94e5-6dad-cd70e387bd69",
+          "name": "China"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/d8c12054-a38a-14f5-8f22-49ff5614aeb5",
+          "name": "BBC News"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "BBC"
+        }
+      ],
+      "datePublished": "2016-11-10T07:23:00",
+      "video": {
+        "name": "Some Chinese views of Donald Trump",
+        "thumbnailUrl": "https://www.bing.com/th?id=ON.0428A0CE7FA394C8542F40FF050F19CD&pid=News",
+        "allowHttpsEmbed": true,
+        "thumbnail": {
+          "width": 480,
+          "height": 270
+        }
+      },
+      "category": "World"
+    },
+    {
+      "name": "<b>China</b> Auto Sales Rise 20.3 Percent in October",
+      "url": "http://www.bing.com/cr?IG=B4122DB838F44D0EA9C7C2BA2EDAA755&CID=3D6E0E02209C6A70230807CB21AD6BAA&rd=1&h=pQlfarTq0Jrm1mGSenfKKM9OT9iKhPJ1DZ0DfxMH7QQ&v=1&r=http%3a%2f%2fabcnews.go.com%2fBusiness%2fwireStory%2fchina-auto-sales-rise-203-percent-october-43438070&p=DevEx,5029.1",
+      "description": "<b>China</b>&#39;s auto sales rose 20.3 percent in October from a year earlier, propelled by surging demand for sport utility vehicles. An industry group, the <b>China</b> Association of Automobile Manufacturers, reported Thursday dealers sold 2.3 million cars, minivans and ...",
+      "about": [
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/5fcc3d97-0cf2-94e5-6dad-cd70e387bd69",
+          "name": "China"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/34902a23-97d5-4487-d415-3de61788ad52",
+          "name": "Sales"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "ABC News"
+        }
+      ],
+      "datePublished": "2016-11-10T02:55:00",
+      "category": "Business"
+    },
+    {
+      "name": "<b>China</b> Jails 49 Over Deadly Tianjin Warehouse Explosions",
+      "url": "http://www.bing.com/cr?IG=B4122DB838F44D0EA9C7C2BA2EDAA755&CID=3D6E0E02209C6A70230807CB21AD6BAA&rd=1&h=JRjnlAhBreqcbl-Kjqxx_eEwuQrog0pquIbzkN3xVRk&v=1&r=http%3a%2f%2fwww.npr.org%2fsections%2fthetwo-way%2f2016%2f11%2f09%2f501441138%2fchina-jails-49-over-deadly-tianjin-warehouse-explosions&p=DevEx,5031.1",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.85B1605DAD99E3F4476D50B7B7A82F72&pid=News",
+          "width": 700,
+          "height": 393
+        }
+      },
+      "description": "Judges in <b>China</b> are jailing 49 people on charges tied to deadly explosions at a warehouse in the port city of Tianjin that killed at least 165 people in August 2015. This was one of <b>China</b>&#39;s worst-ever industrial tragedies. The people sentenced include 25 ...",
+      "about": [
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/45fdbb85-8f7d-7f8b-dc59-7cb26189ef7d",
+          "name": "Tianjin"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/af660955-a30a-65d7-4c4e-89b41945bb5d",
+          "name": "NPR"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/6a7c219c-3ef0-76c8-a554-ebeed658fd6f",
+          "name": "Warehouse"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "NPR News"
+        }
+      ],
+      "datePublished": "2016-11-09T21:21:00",
+      "category": "World"
+    },
+    {
+      "name": "<b>China</b> Bullies Hong Kong",
+      "url": "http://www.bing.com/cr?IG=B4122DB838F44D0EA9C7C2BA2EDAA755&CID=3D6E0E02209C6A70230807CB21AD6BAA&rd=1&h=N_uqEzFTqcNdOiWusY-8YfwxYUhvoCVuifnN2UGZ440&v=1&r=http%3a%2f%2fwww.nytimes.com%2f2016%2f11%2f09%2fopinion%2fchina-bullies-hong-kong.html&p=DevEx,5033.1",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.6783DFA3BE71416076AB5DA4A9416F31&pid=News",
+          "width": 700,
+          "height": 496
+        }
+      },
+      "description": "When <b>China</b> took control of Hong Kong from Britain in 1997, it signed an agreement guaranteeing the city a high degree of political autonomy for 50 years under the “one country, two systems” doctrine. On Monday, Beijing took a step away from that ...",
+      "about": [
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/304df1d5-38ee-e835-eb2a-554caba5c30e",
+          "name": "Hong Kong"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/5fcc3d97-0cf2-94e5-6dad-cd70e387bd69",
+          "name": "China"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/614b60a2-4ccd-3ecb-15dc-6e2fba54ed28",
+          "name": "The New York Times"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "New York Times"
+        }
+      ],
+      "datePublished": "2016-11-09T10:16:00",
+      "category": "World"
+    },
+    {
+      "name": "Tug of war over <b>China</b>&#39;s founding father Sun Yat-sen",
+      "url": "http://www.bing.com/cr?IG=B4122DB838F44D0EA9C7C2BA2EDAA755&CID=3D6E0E02209C6A70230807CB21AD6BAA&rd=1&h=iQ6Q57FVfZj57oScUUMB7AEQarTQqGQau6o6v-L0Rdk&v=1&r=http%3a%2f%2fwww.dailymail.co.uk%2fwires%2fafp%2farticle-3922500%2fTug-war-Chinas-founding-father-Sun-Yat-sen.html&p=DevEx,5035.1",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.5F111B166F6F310D31F099308FC4085B&pid=News",
+          "width": 636,
+          "height": 382
+        }
+      },
+      "description": "<b>China</b>&#39;s ruling party is marking the 150th birthday this week of the man who ended millennia of imperial rule by trumpeting republican revolutionary Sun Yat-sen as a proto-Communist and a symbol of unification with Taiwan. Commemorative stamps have been ...",
+      "about": [
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/29461222-fcc5-4e32-bd8b-6b530da1f378",
+          "name": "Sun Yat-sen"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/93a3e0e2-aecf-e53b-8432-c15f400cfb4e",
+          "name": "Daily Mail"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Daily Mail"
+        }
+      ],
+      "datePublished": "2016-11-10T00:01:00",
+      "category": "World"
+    },
+    {
+      "name": "Russia, <b>China</b>, ISIS: Trump Will Face Foreign Policy Challenges",
+      "url": "http://www.bing.com/cr?IG=B4122DB838F44D0EA9C7C2BA2EDAA755&CID=3D6E0E02209C6A70230807CB21AD6BAA&rd=1&h=6h6j0SlR9v2GVqkK8hPv42A5IkLRSakuVQkvGxxvM_g&v=1&r=http%3a%2f%2fwww.nbcnews.com%2fstoryline%2f2016-election-day%2frussia-china-isis-trump-will-face-foreign-policy-challenges-n681066&p=DevEx,5037.1",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.51AB08BA9DA9AD64E2B97442846FE696&pid=News",
+          "width": 700,
+          "height": 466
+        }
+      },
+      "description": "LONDON — U.S. elections are rarely won on foreign policy — presidents enter the Oval Office focused on changing America, not the world. But many presidents end up being defined by their foreign policy decisions. Donald Trump&#39;s first priority will be to ...",
+      "about": [
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/1a466af2-ed23-25bd-794d-1ca925e4681b",
+          "name": "Donald Trump"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/e6716bc4-df58-50dc-a8b5-9688615ee6cd",
+          "name": "Challenges"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/ed4fce79-8ad4-352b-205b-e4db36c49bbe",
+          "name": "Russia"
+        }
+      ],
+      "mentions": [
+        {
+          "name": "Donald Trump"
+        },
+        {
+          "name": "Challenges"
+        },
+        {
+          "name": "Russia"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "NBC News"
+        }
+      ],
+      "datePublished": "2016-11-09T09:15:00",
+      "video": {
+        "name": "Analysis: Trump Inherits an Increasingly Divided World",
+        "motionThumbnailUrl": "http://prod-video-cms-amp-microsoft-com.akamaized.net/tenant/amp/entityid/AAk5PPT?blobrefkey=101&$blob=1",
+        "thumbnail": {
+          "width": 320,
+          "height": 180
+        }
+      }
+    },
+    {
+      "name": "Ford&#39;s Sales in <b>China</b> Rise 14% as Growth Streak Continues",
+      "url": "http://www.bing.com/cr?IG=B4122DB838F44D0EA9C7C2BA2EDAA755&CID=3D6E0E02209C6A70230807CB21AD6BAA&rd=1&h=t3nn0U7Wz0IJW_6_Jf5RX2JVwmwRiQQWk8Pbp7X3nHA&v=1&r=http%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2fcompanies%2ffords-sales-in-china-rise-14percent-as-growth-streak-continues%2far-AAk0Pds&p=DevEx,5039.1",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.FA17E95970F38EE363C507F20127A9D1&pid=News",
+          "width": 580,
+          "height": 387
+        }
+      },
+      "description": "Ford has two joint ventures with local Chinese automakers. Changan Ford, or CAF, builds and sells a range of Ford cars and SUVs, most of which are familiar models from Ford&#39;s global product portfolio. The other joint venture, Jiangling Motors Corporation ...",
+      "about": [
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/5fcc3d97-0cf2-94e5-6dad-cd70e387bd69",
+          "name": "China"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/35afa8a9-05af-bda7-8819-13e11ca5d726",
+          "name": "Ford Motor Company"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/34902a23-97d5-4487-d415-3de61788ad52",
+          "name": "Sales"
+        }
+      ],
+      "mentions": [
+        {
+          "name": "China"
+        },
+        {
+          "name": "Ford Motor Company"
+        },
+        {
+          "name": "Sales"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "MSN"
+        }
+      ],
+      "datePublished": "2016-11-10T02:10:00",
+      "category": "Business"
+    },
+    {
+      "name": "<b>China</b> cluelessly turns Hong Kong against it",
+      "url": "https://www.bing.com/cr?IG=B4122DB838F44D0EA9C7C2BA2EDAA755&CID=3D6E0E02209C6A70230807CB21AD6BAA&rd=1&h=4hYq-F7g-bEPyyeV5aCk3_9ptXwk8kXPOpV1Qv6HUT8&v=1&r=https%3a%2f%2fwww.washingtonpost.com%2fopinions%2fglobal-opinions%2fchina-cluelessly-turns-hong-kong-against-it%2f2016%2f11%2f08%2f07660144-a51a-11e6-ba59-a7d93165c6d4_story.html&p=DevEx,5041.1",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.C4FAEEAC28DA4ADA10CCC438DDA714B5&pid=News",
+          "width": 700,
+          "height": 465
+        }
+      },
+      "description": "<b>CHINA</b>’S GOVERNANCE of Hong Kong is a series of object lessons in the self-defeating consequences of repression. In 2014, local authorities brutally broke up popular demonstrations led by young people who were reacting to Beijing’s refusal to honor a ...",
+      "about": [
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/5fcc3d97-0cf2-94e5-6dad-cd70e387bd69",
+          "name": "China"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/304df1d5-38ee-e835-eb2a-554caba5c30e",
+          "name": "Hong Kong"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Washington Post"
+        }
+      ],
+      "datePublished": "2016-11-08T19:57:00",
+      "category": "World"
+    }
+  ]
+}
