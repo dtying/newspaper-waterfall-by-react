@@ -27,6 +27,7 @@ build/Release
 node_modules
 dist
 .idea
+*_backup.js
 
 # Bower
 bower_components/
